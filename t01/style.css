@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid #dad5cd;
+}
+tr.head td {
+    color: white;
+    background: black;
+    border: 1px hidden black;
+    text-align: center;
+    font-weight: bold;
+}
+img {
+    height: 120px;
+    width: 120px;
+    border-radius: 15%;
+    margin: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+}
+td {
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    padding: 10px;
+}
+.soul {
+    background: #cd954c;
+}
+.time {
+    background: #347e1c;
+}
+.space {
+    background: #1c568f;
+}
+.mind {
+    background: #fffd54;
+}
+.reality {
+    background: #b33532;
+}
+.power {
+    background: #8078b3;
+}
