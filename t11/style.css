@@ -4,7 +4,7 @@ h1 {
 }
 .box {
     width: calc(100vw - 200px);
-    background-color: grey;
+    background-color: rgb(206, 206, 206);
     margin: 0 auto;
     height: 50px;
     position: relative;
